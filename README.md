@@ -1,16 +1,15 @@
-## Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**carla5433/carla5433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e carla barros
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entrar em contato comigo 📫
+
+0001079811680sp@al.educacao.sp.gov.br
+
+
+
+![](https://media1.tenor.com/m/zDUT9yR2Zz0AAAAd/big-buger-eat-buger.gif)
